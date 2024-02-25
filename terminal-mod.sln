@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terminal-mod", "terminal-mod.csproj", "{BD324F13-AABE-4AB7-B46D-33238471FF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD324F13-AABE-4AB7-B46D-33238471FF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD324F13-AABE-4AB7-B46D-33238471FF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD324F13-AABE-4AB7-B46D-33238471FF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD324F13-AABE-4AB7-B46D-33238471FF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76523EAB-A472-488C-92CE-098EF3666219}
+	EndGlobalSection
+EndGlobal
